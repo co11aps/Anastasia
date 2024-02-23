@@ -14,7 +14,9 @@
   font-weight: 400;
 
   color: #242424;
-  background-color: rgba(255, 255, 255, 0.87);
+  background-color: rgba(12,
+      33,
+      36, 1);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -29,14 +31,16 @@
   height: 650px;
   padding: 0;
   margin: 0 auto;
-  background-image: linear-gradient(rgba(255, 255, 255, 1),
+  background-image: linear-gradient(rgba(12,
+        33,
+        36, 1),
       rgba(0, 0, 0, 0),
       rgba(0, 0, 0, 0),
-      rgba(255,
-        255,
-        255,
+      rgba(12,
+        33,
+        36,
         1)),
-    url(../img/photo_2024-02-21_10-18-20-bw.jpg);
+    url(../img/photo_2024-02-21_10-18-20.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
