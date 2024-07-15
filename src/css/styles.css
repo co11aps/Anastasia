@@ -24,6 +24,10 @@
 
 /* ========== General ============== */
 
+body {
+  height: 100vh;
+}
+
 .mainContainer {
   display: flex;
   flex-direction: column;
