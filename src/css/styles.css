@@ -34,7 +34,7 @@
   margin: auto;
   overflow: hidden;
   text-align: center;
-  position: relative;
+  overflow: hidden;
 }
 
 .wrapper {
